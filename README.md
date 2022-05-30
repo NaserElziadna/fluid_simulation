@@ -1,3 +1,5 @@
+
+<img src="https://github.com/NaserElziadna/fluid_simulation/blob/main/screen_shoots/logo.png" alt="drawing" style="width: 10%;max-width: 30%;border-radius: 17px;display: block;"/>
 <a href="https://www.buymeacoffee.com/NaserElziadna" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NaserElziadna.fluid_simulation)
