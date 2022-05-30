@@ -11,7 +11,8 @@ This beautiful creation can help you to chill, relieve this pesky stress from yo
 
 i have put alot of hard work on this project , so after getting 5k ⭐ starts on the repository, the true source code will be reveled automaticlly
 
-# app ScreenShot
+# app Gallery
+## ScreenShot
 <table style="width:75%;height:75%;">
   <tr>
     <td>
@@ -43,3 +44,5 @@ i have put alot of hard work on this project , so after getting 5k ⭐ starts on
   </tr>
 </table>  
 
+## video
+[![Watch the video](https://github.com/NaserElziadna/fluid_simulation/blob/main/screen_shoots/00.jpg)](https://www.youtube.com/watch?v=r7fo1Aa2B4M)
