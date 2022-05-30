@@ -4,6 +4,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NaserElziadna.fluid_simulation)
 # fluid_simulation
+<a href="https://github.com/NaserElziadna/fluid_simulation/raw/main/releases/app-release.apk"><img style="width:30%;height:20%;" src="https://github.com/NaserElziadna/fluid_simulation/blob/main/screen_shoots/githupApk.png" /></a>
 
 Feel bored or anxious? This app can solve your problem! Play with fluids with a touch of your fingers. Play and experiment with these swirling substances. Gorgeous visuals will take your breath away and help you to relieve stress. 😍
 
