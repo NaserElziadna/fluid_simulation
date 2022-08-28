@@ -16,7 +16,7 @@ This beautiful creation can help you to chill, relieve this pesky stress from yo
 
 # Source Code - Proposal
 
-i have put alot of hard work on this project , so after getting 5k ⭐ starts on the repository, the true source code will be reveled automaticlly
+i have put alot of hard work on this project , so after getting <b>500 </b>⭐ starts on the repository, the true source code will be reveled automaticlly
 
 # app Gallery
 ## ScreenShot
